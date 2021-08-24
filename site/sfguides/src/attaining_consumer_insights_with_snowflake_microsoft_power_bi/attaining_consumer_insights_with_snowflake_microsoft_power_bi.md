@@ -4,7 +4,8 @@ categories: Getting Started
 environments: web
 status: Published
 feedback link: https://github.com/Snowflake-Labs/sfguides/issues
-tags: Getting Started, Data Science, Data Engineering
+tags: Getting Started, Data Science, Data Engineering  
+
 
 # Attaining Consumer Insights with Snowflake and Microsoft Power BI
 
